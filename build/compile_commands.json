@@ -1,8 +1,8 @@
 [
 {
   "directory": "/home/sari/Documents/CGALProjects/Project1/build",
-  "command": "/usr/bin/g++-9   -I../include -I../include/.  -O3 -DNDEBUG   -o CMakeFiles/Project1.dir/main.cpp.o -c /home/sari/Documents/CGALProjects/Project1/main.cpp",
-  "file": "/home/sari/Documents/CGALProjects/Project1/main.cpp"
+  "command": "/usr/bin/g++-9   -I../include -I../include/.  -O3 -DNDEBUG   -o CMakeFiles/Project1.dir/src/main.cpp.o -c /home/sari/Documents/CGALProjects/Project1/src/main.cpp",
+  "file": "/home/sari/Documents/CGALProjects/Project1/src/main.cpp"
 },
 
 {

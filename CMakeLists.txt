@@ -6,7 +6,7 @@ enable_testing()
 
 add_subdirectory(include)
 
-add_executable(Project1 main.cpp)
+add_executable(Project1 ${CMAKE_SOURCE_DIR}/src/main.cpp)
 target_link_libraries(Project1 point segment)
 target_include_directories(Project1 PUBLIC ${CMAKE_SOURCE_DIR}/include)
 

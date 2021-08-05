@@ -253,12 +253,12 @@ build ContinuousMemCheck: phony CMakeFiles/ContinuousMemCheck
 
 build cmake_object_order_depends_target_Project1: phony || cmake_object_order_depends_target_segment
 
-build CMakeFiles/Project1.dir/main.cpp.o: CXX_COMPILER__Project1 ../main.cpp || cmake_object_order_depends_target_Project1
-  DEP_FILE = CMakeFiles/Project1.dir/main.cpp.o.d
+build CMakeFiles/Project1.dir/src/main.cpp.o: CXX_COMPILER__Project1 ../src/main.cpp || cmake_object_order_depends_target_Project1
+  DEP_FILE = CMakeFiles/Project1.dir/src/main.cpp.o.d
   FLAGS = -O3 -DNDEBUG
   INCLUDES = -I../include -I../include/.
   OBJECT_DIR = CMakeFiles/Project1.dir
-  OBJECT_FILE_DIR = CMakeFiles/Project1.dir
+  OBJECT_FILE_DIR = CMakeFiles/Project1.dir/src
 
 
 # =============================================================================
@@ -268,7 +268,7 @@ build CMakeFiles/Project1.dir/main.cpp.o: CXX_COMPILER__Project1 ../main.cpp || 
 #############################################
 # Link the executable Project1
 
-build Project1: CXX_EXECUTABLE_LINKER__Project1 CMakeFiles/Project1.dir/main.cpp.o | include/libsegment.a || include/libsegment.a
+build Project1: CXX_EXECUTABLE_LINKER__Project1 CMakeFiles/Project1.dir/src/main.cpp.o | include/libsegment.a || include/libsegment.a
   FLAGS = -O3 -DNDEBUG
   LINK_FLAGS = -rdynamic
   LINK_LIBRARIES = include/libsegment.a
