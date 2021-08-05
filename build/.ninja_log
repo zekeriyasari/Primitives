@@ -67,3 +67,12 @@
 0	315	1628198903023887285	CMakeFiles/Project1.dir/src/main.cpp.o	b53ff55a512f95
 309	324	1628198903035887414	include/libsegment.a	65dfb732ed88f848
 324	403	1628198903111888228	Project1	1f45ebdfcd4a9dfd
+1	368	1628199493384173037	CMakeFiles/Project1.dir/src/main.cpp.o	b53ff55a512f95
+1	353	1628199537816385415	CMakeFiles/Project1.dir/src/main.cpp.o	b53ff55a512f95
+0	342	1628199577032564938	CMakeFiles/Project1.dir/src/main.cpp.o	b53ff55a512f95
+1	327	1628199649932880817	include/CMakeFiles/segment.dir/segment.cpp.o	65a030bfcd13e713
+0	333	1628199649936880834	CMakeFiles/Project1.dir/src/main.cpp.o	b53ff55a512f95
+327	347	1628199649952880901	include/libsegment.a	65dfb732ed88f848
+347	429	1628199650032881236	Project1	1f45ebdfcd4a9dfd
+1	346	1628199665764946597	CMakeFiles/Project1.dir/src/main.cpp.o	b53ff55a512f95
+346	434	1628199665852946960	Project1	1f45ebdfcd4a9dfd

@@ -6,6 +6,7 @@ using namespace std;
 // Typedefs
 typedef Primitives::Point<int> IntPoint;
 typedef Primitives::Point<double> DoublePoint;
+typedef Primitives::Segment Segment;
 
 int main(int argc, char const *argv[]) {
     // Points

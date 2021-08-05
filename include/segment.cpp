@@ -1,6 +1,8 @@
 
 #include "segment.h"
 
+namespace Primitives {
+
 Segment::Segment(DoublePoint p1, DoublePoint p2) : _p1(p1), _p2(p2) {}
 
 Segment::~Segment() {}
@@ -16,3 +18,5 @@ ostream &operator<<(ostream &os, const Segment &seg) {
     os << "Line: " << seg._p1 << " => " << seg._p2;
     return os;
 }
+
+} // namespace Primitives

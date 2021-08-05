@@ -10,6 +10,7 @@
 
 typedef Primitives::Point<double> DoublePoint;
 
+namespace Primitives {
 class Segment {
   private:
     DoublePoint _p1;
@@ -25,5 +26,7 @@ class Segment {
 
     friend ostream &operator<<(ostream &os, const Segment &seg);
 };
+
+} // namespace Primitives
 
 #endif
