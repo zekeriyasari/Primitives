@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/sari/Documents/CGALProjects/Project1/build",
+  "command": "/usr/bin/g++-9   -I../lib -I../lib/.  -O3 -DNDEBUG   -o CMakeFiles/Project1.dir/main.cpp.o -c /home/sari/Documents/CGALProjects/Project1/main.cpp",
+  "file": "/home/sari/Documents/CGALProjects/Project1/main.cpp"
+},
+
+{
+  "directory": "/home/sari/Documents/CGALProjects/Project1/build",
+  "command": "/usr/bin/g++-9    -O3 -DNDEBUG   -o lib/CMakeFiles/segment.dir/segment.cpp.o -c /home/sari/Documents/CGALProjects/Project1/lib/segment.cpp",
+  "file": "/home/sari/Documents/CGALProjects/Project1/lib/segment.cpp"
+}
+]
