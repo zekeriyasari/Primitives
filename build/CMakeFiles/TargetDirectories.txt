@@ -32,9 +32,9 @@
 /home/sari/Documents/CGALProjects/Project1/build/CMakeFiles/Project1.dir
 /home/sari/Documents/CGALProjects/Project1/build/CMakeFiles/ContinuousTest.dir
 /home/sari/Documents/CGALProjects/Project1/build/CMakeFiles/ContinuousSubmit.dir
-/home/sari/Documents/CGALProjects/Project1/build/lib/CMakeFiles/package_source.dir
-/home/sari/Documents/CGALProjects/Project1/build/lib/CMakeFiles/rebuild_cache.dir
-/home/sari/Documents/CGALProjects/Project1/build/lib/CMakeFiles/package.dir
-/home/sari/Documents/CGALProjects/Project1/build/lib/CMakeFiles/edit_cache.dir
-/home/sari/Documents/CGALProjects/Project1/build/lib/CMakeFiles/test.dir
-/home/sari/Documents/CGALProjects/Project1/build/lib/CMakeFiles/segment.dir
+/home/sari/Documents/CGALProjects/Project1/build/include/CMakeFiles/package_source.dir
+/home/sari/Documents/CGALProjects/Project1/build/include/CMakeFiles/rebuild_cache.dir
+/home/sari/Documents/CGALProjects/Project1/build/include/CMakeFiles/package.dir
+/home/sari/Documents/CGALProjects/Project1/build/include/CMakeFiles/edit_cache.dir
+/home/sari/Documents/CGALProjects/Project1/build/include/CMakeFiles/test.dir
+/home/sari/Documents/CGALProjects/Project1/build/include/CMakeFiles/segment.dir
