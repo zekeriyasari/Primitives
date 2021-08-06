@@ -1,13 +1,12 @@
 [
 {
-  "directory": "/home/sari/Documents/CGALProjects/Project1/build",
-  "command": "/usr/bin/g++-9   -I../include -I../include/.  -O3 -DNDEBUG   -o CMakeFiles/Project1.dir/src/main.cpp.o -c /home/sari/Documents/CGALProjects/Project1/src/main.cpp",
-  "file": "/home/sari/Documents/CGALProjects/Project1/src/main.cpp"
+  "directory": "/home/sari/Documents/CGALProjects/Primitives/build",
+  "command": "/bin/g++-10  -I/home/sari/Documents/CGALProjects/Primitives/include -I/home/sari/Documents/CGALProjects/Primitives/include/. -g -o CMakeFiles/Project1.dir/src/main.cpp.o -c /home/sari/Documents/CGALProjects/Primitives/src/main.cpp",
+  "file": "/home/sari/Documents/CGALProjects/Primitives/src/main.cpp"
 },
-
 {
-  "directory": "/home/sari/Documents/CGALProjects/Project1/build",
-  "command": "/usr/bin/g++-9    -O3 -DNDEBUG   -o include/CMakeFiles/segment.dir/segment.cpp.o -c /home/sari/Documents/CGALProjects/Project1/include/segment.cpp",
-  "file": "/home/sari/Documents/CGALProjects/Project1/include/segment.cpp"
+  "directory": "/home/sari/Documents/CGALProjects/Primitives/build/include",
+  "command": "/bin/g++-10   -g -o CMakeFiles/segment.dir/segment.cpp.o -c /home/sari/Documents/CGALProjects/Primitives/include/segment.cpp",
+  "file": "/home/sari/Documents/CGALProjects/Primitives/include/segment.cpp"
 }
 ]
