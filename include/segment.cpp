@@ -19,4 +19,4 @@ ostream &operator<<(ostream &os, const Segment &seg) {
     return os;
 }
 
-} // namespace Primitives
+}  // namespace Primitives

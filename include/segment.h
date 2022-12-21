@@ -12,11 +12,11 @@ typedef Primitives::Point<double> DoublePoint;
 
 namespace Primitives {
 class Segment {
-  private:
+   private:
     DoublePoint _p1;
     DoublePoint _p2;
 
-  public:
+   public:
     Segment(DoublePoint p1, DoublePoint p2);
     ~Segment();
 
@@ -27,6 +27,6 @@ class Segment {
     friend ostream &operator<<(ostream &os, const Segment &seg);
 };
 
-} // namespace Primitives
+}  // namespace Primitives
 
 #endif
